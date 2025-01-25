@@ -9,4 +9,9 @@ This file was created by merging the following two GeoJSON datasets from https:/
 * **[World Map](https://download2.exploratory.io/maps/world.zip)** (MIT License)
 * **[US States](https://download2.exploratory.io/maps/states.zip)** (MIT License)
 
-The datasets were merged using [Mapshaper](https://mapshaper.org/).
+The datasets were merged using [Mapshaper](https://mapshaper.org/). Although it was export as GeoJSON, the resulting file had a `.json` extension. To ensure correct formatting, the file was then opened and saved as GeoJSON using [geojson.io](https://geojson.io/).
+
+## File Usage
+
+This file has been used to create the following images:
+* **[File:Blank orthographic world map with US state borders, centered on 45° N, 60° W.svg](https://commons.wikimedia.org/wiki/File:Blank_orthographic_world_map_with_US_state_borders,_centered_on_45%C2%B0_N,_60%C2%B0_W.svg)** on _Wikimedia Commons_ (under CC BY-SA 4.0 license)
