@@ -9,7 +9,7 @@ This file was created by merging the following two GeoJSON datasets from https:/
 * **[World Map](https://download2.exploratory.io/maps/world.zip)** (MIT License)
 * **[US States](https://download2.exploratory.io/maps/states.zip)** (MIT License)
 
-The datasets were merged using [Mapshaper](https://mapshaper.org/). Although it was export as GeoJSON, the resulting file had a `.json` extension. To ensure correct formatting, the file was then opened and saved as GeoJSON using [geojson.io](https://geojson.io/).
+The datasets were merged and saved using [Mapshaper](https://mapshaper.org/).
 
 ## File Usage
 
